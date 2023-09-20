@@ -1,5 +1,5 @@
 #include<stdio.h>
-// Program to input from 0 to n 
+// Program to print from 0 to n using while loop
 int main() {
     int n ;
     printf("Enter the number : ");
