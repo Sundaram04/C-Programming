@@ -1,3 +1,5 @@
+// Generate table
+
 #include<stdio.h>
 
 void print_table(int num, int range);
